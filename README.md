@@ -31,3 +31,5 @@
 ## 6 获得技术支持
 
 <a href="./vesta-theme/我的微信QR.jpeg"><img src="./vesta-theme/我的微信QR.jpeg" alt="cloudate-qrcode" width="150" height="190" class="alignnone size-full wp-image-1138" /></a>
+
+[![Build Status](https://dev.azure.com/3051522013/rebeccaProject/_apis/build/status/zrebecca.vesta-id-generator-1?branchName=master)](https://dev.azure.com/3051522013/rebeccaProject/_build/latest?definitionId=4&branchName=master)
